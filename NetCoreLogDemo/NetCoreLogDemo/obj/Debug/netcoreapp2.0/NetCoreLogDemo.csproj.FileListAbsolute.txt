@@ -1,0 +1,11 @@
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\bin\Debug\netcoreapp2.0\NetCoreLogDemo.deps.json
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\bin\Debug\netcoreapp2.0\NetCoreLogDemo.runtimeconfig.json
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\bin\Debug\netcoreapp2.0\NetCoreLogDemo.runtimeconfig.dev.json
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\bin\Debug\netcoreapp2.0\NetCoreLogDemo.dll
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\obj\Debug\netcoreapp2.0\NetCoreLogDemo.csprojResolveAssemblyReference.cache
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\obj\Debug\netcoreapp2.0\NetCoreLogDemo.csproj.CoreCompileInputs.cache
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\obj\Debug\netcoreapp2.0\NetCoreLogDemo.AssemblyInfoInputs.cache
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\obj\Debug\netcoreapp2.0\NetCoreLogDemo.AssemblyInfo.cs
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\bin\Debug\netcoreapp2.0\NetCoreLogDemo.pdb
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\obj\Debug\netcoreapp2.0\NetCoreLogDemo.dll
+D:\study\.net core 2.0实现日志功能\NetCoreLogDemo\NetCoreLogDemo\obj\Debug\netcoreapp2.0\NetCoreLogDemo.pdb
